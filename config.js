@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Andale!... no es como que realmente tengas mas opciones realmente... 🎉💝💖💝💓",
-        message: "Te amo mugrosa, incluso en la distancia y la duda, tus ojos son como dos anclas que me recuerdan lo profundo que te has clavado en mi corazón, no seremos perfectos, pero quiero caminar los años de vida que nos queden junto a ti, sentir el reflejo de tu alma y sangre en mi, porque te amo y espero que nada nunca pueda cambiar eso"
+        message: "Te amo mugrosa, incluso en la distancia y la duda, tus ojos son como dos anclas que me recuerdan lo profundo que te has clavado en mi corazón, no seremos perfectos, pero quiero caminar los años de vida que nos queden junto a ti, sentir el reflejo de tu alma y sangre en mi, porque te amo y espero que nada nunca pueda cambiar eso!",
         emojis: "🌙💖🌸💝🍨❤️💕"  // These will bounce around
     },
 
