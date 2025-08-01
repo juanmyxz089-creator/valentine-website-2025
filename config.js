@@ -79,8 +79,8 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/db5tieppk/video/upload/v1754025681/Jeff_Buckley_-_Everybody_Here_Wants_You_Sub_Espa%C3%B1ol_id0jep.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
+        startText: "🎵 Tocame 🗣️🗣️",        // Button text to start music
+        stopText: "🔇 ya me callo alv",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
