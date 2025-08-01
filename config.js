@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Isa, mi luz de luna, mi niña",
+    valentineName: "Isa, mi luz de luna, mi niña...",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "¿Me entregarias tu corazón para toda la eternidad?",                                    // First interaction
+            text: "¿Realmente me quieres??",                                    // First interaction
             yesBtn: "Si",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "Jajajjsa te hice perder el tiempo ❤️"           // Secret hover message
         },
         second: {
-            text: "¿Cuanto crees que te amo?",                          // For the love meter
-            startText: "Asi tantito!",                                   // Text before the percentage
+            text: "¿y Hasta donde crees que llega mi amor por ti??",                          // For the love meter
+            startText: "Asi tantito",                                   // Text before the percentage
             nextBtn: "Siguiente ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Hasta que la muerte nos separe? 🌹", // The big question!
+            text: "pos entonces...¿hasta que la muerte nos separe ? 🌹", // The big question!
             yesBtn: "Si!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "No te pases tampoco...🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "No te pases tampoco...",  // Shows when they go past 5000%
         high: "Uhmmmm poquito mas  🚀💝",              // Shows when they go past 1000%
         normal: "Chingase a tu puta madre 🖕 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Andale, no es como que realmente tengas mas opciones realmente... 🎉💝💖💝💓",
+        message: "Te amo mugrosa, a pesar de la Distancia y nuestos momentos de duda, cada dia que veo tus ojos recuerdo porque sigo aqui a pesar de todo, y la razón es que me has encantado hasta el punto de que me da igual que pueda decir el resto, si no es contigo no quiero nada...!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/db5tieppk/video/upload/v1754025681/Jeff_Buckley_-_Everybody_Here_Wants_You_Sub_Espa%C3%B1ol_id0jep.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
