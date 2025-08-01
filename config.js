@@ -25,7 +25,7 @@ const CONFIG = {
             text: "¿Realmente me quieres??",                                    // First interaction
             yesBtn: "Si",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Jajajjsa te hice perder el tiempo ❤️"           // Secret hover message
+            secretAnswer: "JAJAJAJS te hice perder el tiempo ❤️"           // Secret hover message
         },
         second: {
             text: "¿y Hasta donde crees que llega mi amor por ti??",                          // For the love meter
@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "pos entonces...¿hasta que la muerte nos separe ? 🌹", // The big question!
             yesBtn: "Si!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "No, que asco "                                                 // Text for "No" button
         }
     },
 
@@ -44,14 +44,14 @@ const CONFIG = {
     loveMessages: {
         extreme: "No te pases tampoco...",  // Shows when they go past 5000%
         high: "Uhmmmm poquito mas  🚀💝",              // Shows when they go past 1000%
-        normal: "Chingase a tu puta madre 🖕 🥰"                           // Shows when they go past 100%
+        normal: "Vete a la kola jsjs 🖕 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Andale, no es como que realmente tengas mas opciones realmente... 🎉💝💖💝💓",
-        message: "Te amo mugrosa, a pesar de la Distancia y nuestos momentos de duda, cada dia que veo tus ojos recuerdo porque sigo aqui a pesar de todo, y la razón es que me has encantado hasta el punto de que me da igual que pueda decir el resto, si no es contigo no quiero nada...!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Andale!... no es como que realmente tengas mas opciones realmente... 🎉💝💖💝💓",
+        message: "Te amo mugrosa, incluso en la distancia y la duda, tus ojos son como dos anclas que me recuerdan lo profundo que te has clavado en mi corazón, no seremos perfectos, pero quiero caminar los años de vida que nos queden junto a ti, sentir el reflejo de tu alma y sangre en mi, porque te amo y espero que nada nunca pueda cambiar eso"
+        emojis: "🌙💖🌸💝🍨❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
